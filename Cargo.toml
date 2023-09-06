@@ -7,3 +7,7 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4"
+aleph-alpha-client = "0.7.0"
+# todo: install  these packages.
+qdrant-client = "1.4.0"
+
